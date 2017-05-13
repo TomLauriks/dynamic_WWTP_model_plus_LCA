@@ -1,0 +1,19 @@
+	co2	n2o	ch4_fossil	ch4_biogenic	po4	fosforus	nh3_as_n	no3	nitrogen	acetic_acid	h2o	unit
+CC	1	298	25	22.3	0	0	0	0	0	0	0	kg CO2 eq / kg substance
+OD	0	0	0	0	0	0	0	0	0	0	0	kg CFC-11 eq / kg substance
+TA	0	0	0	0	0	0	0	0	0	0	0	kg SO2 eq / kg substance
+FE	0	0	0	0	0.33	1	0	0	0	0	0	kg P eq / kg substance
+ME	0	0	0	0	0	0	1	0.23	1	0	0	kg N eq / kg substance
+HT	0	0	0	0	0	0	0	0	0	0	0	"kg 1,4-DB eq / kg substance"
+POF	0	0	0.0101	0	0	0	0	0	0	0	0	kg NMVOC / kg substance
+PMF	0	0	0	0	0	0	0	0	0	0	0	kg PM10 eq / kg substance
+TE	0	0	0	0	0	0	0	0	0	0.000133	0	"kg 1,4-DB eq / kg substance"
+FET	0	0	0	0	0	0	0	0	0	0.045	0	"kg 1,4-DB eq / kg substance"
+MET	0	0	0	0	0	0	0	0	0	0.000133	0	"kg 1,4-DB eq / kg substance"
+IR	0	0	0	0	0	0	0	0	0	0	0	kBq U235 eq / kBq
+ALO	0	0	0	0	0	0	0	0	0	0	0	m2a / m2a
+ULO	0	0	0	0	0	0	0	0	0	0	0	m2a / m2a
+NLT	0	0	0	0	0	0	0	0	0	0	0	m2 / m2
+WD	0	0	0	0	0	0	0	0	0	0	-0.001	m3 / kg
+MD	0	0	0	0	0	0	0	0	0	0	0	kg Fe eq / kg substance
+FD	0	0	0	0	0	0	0	0	0	0	0	kg oil eq / kg substance

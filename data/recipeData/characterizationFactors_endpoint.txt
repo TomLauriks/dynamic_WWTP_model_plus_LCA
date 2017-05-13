@@ -1,0 +1,18 @@
+	co2	n2o	ch4_fossil	ch4_biogenic	po4	fosforus	acetic_acid	unit
+CCHH	0.0000014	0.000417	0.000035	0.0000312	0	0	0	DALY / kg substance
+OD	0	0	0	0	0	0	0	DALY / kg substance
+HT	0	0	0	0	0	0	0	DALY / kg substance
+POF	0	0	3.94E-10	0	0	0	0	DALY / kg substance
+IR	0	0	0	0	0	0	0	DALY / kBq 
+PMF	0	0	0	0	0	0	0	DALY / kg substance
+CCES	7.93E-09	0.00000236	0.000000198	0.000000176	0	0	0	species.yr / kg substance
+TA	0	0	0	0	0	0	0	species.yr / kg substance
+FE	0	0	0	0	1.47E-08	4.44E-08	0	species.yr / kg substance
+TE	0	0	0	0	0	0	2E-11	species.yr / kg substance
+FET	0	0	0	0	0	0	3.88E-11	species.yr / kg substance
+MET	0	0	0	0	0	0	2.33E-14	species.yr / kg substance
+ALO	0	0	0	0	0	0	0	species.yr / m2a
+ULO	0	0	0	0	0	0	0	species.yr / m2a
+NLT	0	0	0	0	0	0	0	species.yr / m2
+MD	0	0	0	0	0	0	0	$ / kg substance
+FD	0	0	0	0	0	0	0	$ / kg substance
