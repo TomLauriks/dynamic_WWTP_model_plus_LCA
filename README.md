@@ -1,5 +1,5 @@
 # dynamic_WWTP_model_plus_LCA
-This repository contains a Jupyter notebook that generates life cycle assessment (LCA) results (both classical and dynamic results), from the output of the dynamic Eindhoven wastewater treatment plant (WWTP) model.
+This repository contains a Jupyter notebook that generates life cycle assessment (LCA) results (both classical and dynamic results), from the output of the Eindhoven wastewater treatment plant (WWTP) dynamic model.
 
 The notebook's filename is dynamicModellingPlusLCA_notebook.ipynb. It is accompanied by a Python script that contains two functions. Most parts of both can be viewed by clicking on them, although I observed that some errors in displaying the layout of the notebook occur when GitHub displays the files. The notebook is well documented and provided with clarifications for the interested reader. The whole repository is also available to download. An alterative way of viewing the notebook: Go to this link: https://nbviewer.jupyter.org/. Fill in this url: https://github.com/TomLauriks/dynamic_WWTP_model_plus_LCA/blob/master/dynamicModellingPlusLCA_notebook.ipynb. Click Go! The layout in the latter option is a bit nicer, but the same displaying errors occur.
 
